@@ -1,5 +1,4 @@
 import sys
-# inital commit
 
 from tech_news.analyzer.ratings import top_5_categories
 from tech_news.analyzer.search_engine import (
